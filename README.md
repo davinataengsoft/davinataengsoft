@@ -1,6 +1,6 @@
 ## Olá, eu sou o Davi Natã 👋
 
-### Sou um Engenheiro de Software em formação focado em criar soluções eficientes e escaláveis. ###
+### Técnico em Informática | Estudante de Engenharia de Software | Desenvolvimento Web | Suporte em TI | Technical Support & IT Operations Analyst ###
 
 ### 🚀 Sobre Mim ###
 - 🔭 Atualmente estou trabalhando em construir meu Portfólio
@@ -20,9 +20,16 @@
 </div>
 
 ## 🛠 Habilidades
-**Backend:** Python, Java
+**Desenvolvimento Web**
+**Backend:** Python, Java , PHP
 **Frontend:** HTML, CSS
 **DevOps & Banco de dados:**  MYSQL, AWS
+**Design UI&UX**
+**Manuntenção e limpeza de Computadores e impressoras**
+**Rede de computadores**
+
+## Acesse meu portfólio para saber mais:
+(https://davinatatech.my.canva.site/fale-conosco)
 
 <!--
 **davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
