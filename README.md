@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou o Davi Natã 👋
 
+### Sou um Engenheiro de Software em formação focado em criar soluções eficientes e escaláveis. ###
 <!--
 **davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🔭 Atualmente estou trabalhando em construir meu Portfólio
+- 🌱 Aprendendo no momento: Java, Javascript, Html, Python, CSS , 
+- 📫 Como me encontrar:  [Davi Natã](www.linkedin.com/in/davinatã0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+### 🛠 Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
