@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+## 🛠 Habilidades
+**Backend:** Python, Java
+**Frontend:** HTML, CSS
+**DevOps & Banco de dados:**  MYSQL, AWS
 
 <!--
 **davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
