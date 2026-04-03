@@ -1,8 +1,6 @@
 ## Olá, eu sou o Davi Natã 👋
 
 ### Sou um Engenheiro de Software em formação focado em criar soluções eficientes e escaláveis. ###
-<!--
-**davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🚀 Sobre Mim ###
 - 🔭 Atualmente estou trabalhando em construir meu Portfólio
@@ -21,3 +19,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 ###
+
+<!--
+**davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
