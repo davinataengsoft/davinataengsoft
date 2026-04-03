@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-## 🛠 Habilidades
--**Desenvolvimento Web**
--**Backend:** Python, Java , PHP
--**Frontend:** HTML, CSS
--**DevOps & Banco de dados:**  MYSQL, AWS
--**Design UI&UX**
--**Manuntenção e limpeza de Computadores e impressoras**
--**Rede de computadores**
+## 🛠 Habilidades ##
+**Desenvolvimento Web**
+**Backend:** Python, Java , PHP
+**Frontend:** HTML, CSS
+**DevOps & Banco de dados:**  MYSQL, AWS
+**Design UI&UX**
+**Manuntenção e limpeza de Computadores e impressoras**
+**Rede de computadores**
 
 ## Acesse meu portfólio para saber mais:
 (https://davinatatech.my.canva.site/fale-conosco)
