@@ -29,7 +29,7 @@
 - **Rede de computadores**
 
 ## Acesse meu portfólio para saber mais:
-(https://davinatatech.my.canva.site/fale-conosco)
+((https://davinatatech.my.canva.site/))
 
 <!--
 **davinataengsoft/davinataengsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
