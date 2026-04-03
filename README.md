@@ -5,7 +5,7 @@
 ### 🚀 Sobre Mim ###
 - 🔭 Atualmente estou trabalhando em construir meu Portfólio
 - 🌱 Aprendendo no momento: Java, Javascript, Html, Python, CSS , 
-- 📫 Como me encontrar:  [Davi Natã] (www.linkedin.com/in/davinatã0)
+- 📫 Como me encontrar:  [Davi Natã](www.linkedin.com/in/davinatã0)
 
 
 
